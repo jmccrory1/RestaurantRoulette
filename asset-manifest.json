@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RestaurantRoulette/static/css/main.5b13550d.chunk.css",
+    "main.js": "/RestaurantRoulette/static/js/main.349b7033.chunk.js",
+    "main.js.map": "/RestaurantRoulette/static/js/main.349b7033.chunk.js.map",
+    "runtime-main.js": "/RestaurantRoulette/static/js/runtime-main.8dddada9.js",
+    "runtime-main.js.map": "/RestaurantRoulette/static/js/runtime-main.8dddada9.js.map",
+    "static/js/2.d4f0b3c2.chunk.js": "/RestaurantRoulette/static/js/2.d4f0b3c2.chunk.js",
+    "static/js/2.d4f0b3c2.chunk.js.map": "/RestaurantRoulette/static/js/2.d4f0b3c2.chunk.js.map",
+    "static/js/3.5c6f36e2.chunk.js": "/RestaurantRoulette/static/js/3.5c6f36e2.chunk.js",
+    "static/js/3.5c6f36e2.chunk.js.map": "/RestaurantRoulette/static/js/3.5c6f36e2.chunk.js.map",
+    "index.html": "/RestaurantRoulette/index.html",
+    "static/css/main.5b13550d.chunk.css.map": "/RestaurantRoulette/static/css/main.5b13550d.chunk.css.map",
+    "static/js/2.d4f0b3c2.chunk.js.LICENSE.txt": "/RestaurantRoulette/static/js/2.d4f0b3c2.chunk.js.LICENSE.txt",
+    "static/media/logo.985ffb36.gif": "/RestaurantRoulette/static/media/logo.985ffb36.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dddada9.js",
+    "static/js/2.d4f0b3c2.chunk.js",
+    "static/css/main.5b13550d.chunk.css",
+    "static/js/main.349b7033.chunk.js"
+  ]
+}

@@ -13,7 +13,7 @@ function App() {
         </h1>
           <NumGenerator />
       </header>
-      <Map />
+      {/* <Map /> */}
     </div>
   );
 }

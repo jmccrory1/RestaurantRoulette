@@ -26,7 +26,7 @@ export class NumGenerator extends Component {
       restaurant = "Chinese";
     }
     if (RandomNumber === 4) {
-      restaurant = "Japenese";
+      restaurant = "Japanese";
     }
     if (RandomNumber === 5) {
       restaurant = "American";
@@ -38,7 +38,7 @@ export class NumGenerator extends Component {
       restaurant = "Cajun"
     }
     if (RandomNumber === 8) {
-      restaurant = "Barbeque";
+      restaurant = "Barbecue";
     }
     if (RandomNumber === 9) {
       restaurant = "Seafood";
